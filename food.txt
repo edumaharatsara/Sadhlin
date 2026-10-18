@@ -1,0 +1,5 @@
+pizza,750000,10,
+burger,650000,10,
+sandwich,450000,10,
+specialpizza,950000,10,
+Cheese Burger,650000.0,20.0,
